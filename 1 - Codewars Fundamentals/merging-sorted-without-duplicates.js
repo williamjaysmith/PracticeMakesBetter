@@ -1,0 +1,28 @@
+/*
+DESCRIPTION ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+██████████████████████████████████████████████████████████
+
+Write a function that merges two sorted arrays into a single one. The arrays only contain integers. Also, the final outcome must be sorted and not have any duplicate.
+
+MY SOLUTION ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+██████████████████████████████████████████████████████████*/
+
+function mergeArrays(a, b) {
+    return [...new Set(a.concat(b).sort((a, b) => a - b))];
+}
+
+/*
+BEST PRACTICE ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+██████████████████████████████████████████████████████████
+
+function mergeArrays(a, b) {
+  return [...new Set(a.concat(b))].sort((a,b)=>a-b);
+}
+
+WHAT DID I LEARN? ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+██████████████████████████████████████████████████████████
+
+i learned to remove duplicates with the  [...new Set]
+
+
+*/

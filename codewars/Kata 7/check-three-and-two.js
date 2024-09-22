@@ -48,7 +48,6 @@ function checkThreeAndTwo(array) {
 WHAT DID I LEARN? ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ██████████████████████████████████████████████████████████
 
-i can count and store values like these with one simple line
-
+I learned how to count occurrences of items in an array and check for specific counts, which could be useful in a web app for validating patterns, like ensuring a form has specific numbers of selected options.
 
 */

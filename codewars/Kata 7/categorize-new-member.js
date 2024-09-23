@@ -39,7 +39,7 @@ function openOrSenior(data){
 WHAT DID I LEARN? ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ██████████████████████████████████████████████████████████
 
-
+I learned how to use conditions to categorize items in a list, which could be useful in a web app for sorting users into different membership levels based on their age and experience.
 
 
 */

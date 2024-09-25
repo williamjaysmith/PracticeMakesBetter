@@ -30,7 +30,7 @@ function addBinary(a,b){
 WHAT DID I LEARN? ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ██████████████████████████████████████████████████████████
 
-
+I learned how to add two numbers and convert the result to binary, which could be useful in a web app for tasks like converting data to binary format for storage or processing.
 
 
 */

@@ -28,7 +28,7 @@ const solve = a => a.map( v => new Set(v).size ).reduce( (v,w) => v*w , 1 ) ;,
 WHAT DID I LEARN? ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ██████████████████████████████████████████████████████████
 
- I learned that if i leave new Set without converting back into an array , i access its length by saying .size. And i learned to find all combination of array by multiplying the sub arrays.
+ I learned that if i leave new Set without converting back into an array , i access its length by saying .size. And i learned to find all combination of array by multiplying the sub arrays. This could be useful in web development for determining the number of unique combinations from multiple sets, like unique options in multi-select filters.
 
 
 */

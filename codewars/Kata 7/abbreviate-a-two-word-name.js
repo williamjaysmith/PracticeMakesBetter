@@ -21,6 +21,7 @@ function abbrevName(name) {
         .map((x) => x[0]);
     return `${array[0]}.${array[1]}`;
 }
+
 /*
 BEST PRACTICE ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ██████████████████████████████████████████████████████████
@@ -34,7 +35,7 @@ function abbrevName(name){
 WHAT DID I LEARN? ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ██████████████████████████████████████████████████████████
 
-
+I learned how to create initials from a full name by splitting it, mapping each part to its first letter, and joining them, which could be useful in a web app for displaying user initials in a profile icon.
 
 
 */

@@ -59,7 +59,7 @@ DNAStrand.pairs = {
 WHAT DID I LEARN? ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ██████████████████████████████████████████████████████████
 
-
+I learned how to use a map to replace characters in a string, which could be useful in a web app for transforming data, like converting genetic codes or encoding messages.
 
 
 */

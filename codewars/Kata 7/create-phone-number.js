@@ -41,6 +41,9 @@ function isSquare(n) {
   return Math.sqrt(n) % 1 === 0;
 }
 
+WHAT I LEARNED ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+██████████████████████████████████████████████████████████
 
+I learned how to check if a number is a perfect square by comparing its square root to the nearest whole number, which could be useful in a web app for validating inputs like area measurements that should be square dimensions.
 
 */

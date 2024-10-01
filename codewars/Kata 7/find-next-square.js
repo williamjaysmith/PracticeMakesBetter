@@ -43,7 +43,7 @@ function findNextSquare(sq) {
 WHAT DID I LEARN? ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ██████████████████████████████████████████████████████████
 
-
+I learned how to check if a number is a perfect square and find the next perfect square if it is, which could be useful in a web app for generating grid sizes or layout designs that require square dimensions.
 
 
 */

@@ -67,8 +67,10 @@ function findEvenIndex(arr)
   return -1;
 }
 
+WHAT I LEARNED ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+██████████████████████████████████████████████████████████
 
-
+I learned how to find the index in an array where the sum of numbers on the left equals the sum on the right, which could be useful in a web app for balancing values, like distributing resources evenly among groups.
 
 
 */

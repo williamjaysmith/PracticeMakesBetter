@@ -26,6 +26,7 @@ WHAT DID I LEARN? ░░░░░░░░░░░░░░░░░░░░�
 ██████████████████████████████████████████████████████████
 
 
+I learned how to invert the values in an array by multiplying them by -1, which could be useful in a web app for transforming data, such as flipping a set of positive and negative scores.
 
 
 */

@@ -24,8 +24,9 @@ BEST PRACTICE ░░░░░░░░░░░░░░░░░░░░░░
 function filter_list(l) {
   return l.filter(function(v) {return typeof v == 'number'})
 }
+WHAT DID I LEARN ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+██████████████████████████████████████████████████████████
 
-
-
+I learned how to filter out non-number items from an array, which could be useful in a web app for cleaning user input or processing data to ensure only valid numbers are used for calculations.
 
 */

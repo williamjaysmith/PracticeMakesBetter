@@ -21,7 +21,7 @@ var noOdds = values => values.filter(x => x % 2 === 0);
 WHAT DID I LEARN? ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ██████████████████████████████████████████████████████████
 
-practiced using filter to find even numbers only
+I learned how to filter out odd numbers from an array, which could be useful in a web app for processing data to display only even values, such as in a list of user scores or settings.
 
 
 */

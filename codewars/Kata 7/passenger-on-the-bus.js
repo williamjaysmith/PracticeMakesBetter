@@ -32,7 +32,8 @@ BEST PRACTICE ░░░░░░░░░░░░░░░░░░░░░░
 
 const number = (busStops) => busStops.reduce((rem, [on, off]) => rem + on - off, 0);
 
+WHAT DID I LEARN ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+██████████████████████████████████████████████████████████
 
-
-
+I learned how to calculate the number of remaining passengers on a bus by subtracting the number of passengers who get off from those who get on at each stop, which could be useful in a web app for tracking transportation statistics or managing public transport services.
 */

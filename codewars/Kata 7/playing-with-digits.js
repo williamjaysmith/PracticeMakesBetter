@@ -45,6 +45,9 @@ function digPow(n, p) {
   return x % n ? -1 : x / n
 }
 
+WHAT DID I LEARN ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+██████████████████████████████████████████████████████████
 
+I learned how to determine if a number can be expressed as the sum of its digits raised to consecutive powers, which could be useful in a web app for creating fun mathematical challenges or games that engage users with number properties.
 
 */

@@ -33,7 +33,8 @@ function reverseWords(str) {
   }).join(' ');
 }
 
+WHAT DID I LEARN ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+██████████████████████████████████████████████████████████
 
-
-
+I learned how to reverse the letters of each word in a string while keeping the word order the same, which could be used in a web development project to implement features like a text editor or a fun word game that transforms user input.
 */

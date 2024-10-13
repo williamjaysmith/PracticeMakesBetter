@@ -37,7 +37,7 @@ function highAndLow(numbers){
 WHAT DID I LEARN? ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ██████████████████████████████████████████████████████████
 
-
+I learned how to find the highest and lowest numbers in a string of space-separated values, which could be useful in a web app for displaying statistics, like the best and worst scores in a leaderboard.
 
 
 */

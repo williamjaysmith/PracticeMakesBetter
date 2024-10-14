@@ -42,5 +42,9 @@ const rps = (p1, p2) => {
   }
 };
 
+WHAT DID I LEARN ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+██████████████████████████████████████████████████████████
+
+I learned how to implement the logic for a rock-paper-scissors game, which can be used in a web development project to create interactive games or features that involve user input and decision-making.
 
 */

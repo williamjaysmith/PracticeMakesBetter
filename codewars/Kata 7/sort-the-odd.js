@@ -41,6 +41,9 @@ function sortArray(array) {
   return array.map((x) => x % 2 ? odd.shift() : x);
 }
 
+WHAT DID I LEARN ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+██████████████████████████████████████████████████████████
 
+I learned how to sort only the odd numbers in an array while keeping the even numbers in their original positions, which can be useful in web development for manipulating data without disrupting the overall structure of user interfaces or data displays.
 
 */

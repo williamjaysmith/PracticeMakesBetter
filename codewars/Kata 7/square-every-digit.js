@@ -32,7 +32,8 @@ function squareDigits(num){
   
 }
 
+WHAT DID I LEARN ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+██████████████████████████████████████████████████████████
 
-
-
+I learned how to take each digit of a number, square it, and then combine those squared digits back into a single number, which can be useful in web development for transforming user input data or implementing mathematical features in applications.
 */

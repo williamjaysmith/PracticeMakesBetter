@@ -20,7 +20,10 @@ function solution(str, ending){
   return str.endsWith(ending);
 }
 
+WHAT DID I LEARN ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+██████████████████████████████████████████████████████████
 
+I learned how to check if a string ends with a specific substring using the includes method, which can be useful in web development for validating user input or ensuring correct data formats in applications.
 
 
 */

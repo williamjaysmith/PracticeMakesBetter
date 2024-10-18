@@ -24,7 +24,7 @@ function sumMix(x){
 WHAT DID I LEARN? ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ██████████████████████████████████████████████████████████
 
-got some practice with the reduce function
+I learned how to sum an array of mixed data types by converting each element to a number, which can be helpful in web development when processing user input that may come as strings but needs to be treated as numbers for calculations.
 
 
 */

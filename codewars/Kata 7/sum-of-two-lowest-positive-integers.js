@@ -28,7 +28,7 @@ function sumTwoSmallestNumbers(numbers){
 WHAT DID I LEARN? ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ██████████████████████████████████████████████████████████
 
-got some good practice using the sort method to extract and sum the two lowest numbers
+I learned how to find the sum of the two smallest numbers in an array by sorting it first, which can be useful in web development for tasks like calculating discounts or determining the lowest prices from user data.
 
 
 */

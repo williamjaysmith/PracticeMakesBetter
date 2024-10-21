@@ -30,7 +30,9 @@ function rowSumOddNumbers(n) {
     return Math.pow(n, 3);
   }
 
+WHAT DID I LEARN? ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+██████████████████████████████████████████████████████████
 
-
+in one simple sentence using simple language what did learn from this, in firstperson and how could this be used in a real web development situation
 
 */

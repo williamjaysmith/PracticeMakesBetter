@@ -49,6 +49,8 @@ function SeriesSum(n) {
   return s.toFixed(2)
 }
 
+WHAT DID I LEARN? ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+██████████████████████████████████████████████████████████
 
-
+I learned how to calculate a series sum by iterating through a formula and accumulating the result, which could be useful in web development for generating statistical data or performing calculations in applications that require mathematical computations.
 */

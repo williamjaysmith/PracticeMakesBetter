@@ -33,7 +33,7 @@ var number = function(array) {
 WHAT DID I LEARN? ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ██████████████████████████████████████████████████████████
 
-got practice with template literals
+in one simple sentence using simple language what did learn from this, in firstperson and how could this be used in a real web development situation
 
 
 */

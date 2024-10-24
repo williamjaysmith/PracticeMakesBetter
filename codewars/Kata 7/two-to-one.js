@@ -25,6 +25,9 @@ BEST PRACTICE ░░░░░░░░░░░░░░░░░░░░░░
 
 const longest = (s1, s2) => [...new Set(s1+s2)].sort().join('')
 
+WHAT DID I LEARN? ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+██████████████████████████████████████████████████████████
 
+I learned how to combine two strings, remove duplicates, and sort the result, which could be useful in web development for tasks like processing user input or creating unique identifiers.
 
 */

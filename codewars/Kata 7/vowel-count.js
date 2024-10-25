@@ -34,6 +34,9 @@ function getCount(str) {
  return str.split('').filter(c => "aeiouAEIOU".includes(c)).length;
 }
 
+WHAT DID I LEARN? ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+██████████████████████████████████████████████████████████
 
+I learned how to count the number of vowels in a string, which can be useful in web development for validating text inputs or processing user-generated content.
 
 */

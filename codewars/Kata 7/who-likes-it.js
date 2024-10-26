@@ -43,7 +43,10 @@ function likes(names) {
   }
 }
 
+WHAT DID I LEARN? ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+█████████████████████████████████████████████████████████
 
+I learned how to create a function that formats a message based on the number of names provided, which can be used in web development to display social interactions, like in comments or likes on a post.
 
 
 

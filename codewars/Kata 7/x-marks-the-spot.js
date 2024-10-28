@@ -21,12 +21,6 @@ Input: [
 ]
 Return [4,6] for the example above => [4, 6]
 
-
-
-
-
-
-
 MY SOLUTION ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ██████████████████████████████████████████████████████████*/
 
@@ -65,18 +59,11 @@ const xMarksTheSpot = (input) => {
   }
 }
 
-
-
-
-
-
-
-
-
 WHAT DID I LEARN? ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ██████████████████████████████████████████████████████████
 
 
+I learned how to find the coordinates of a specific character in a 2D array, which can be useful in web development for tasks like locating items in a grid layout or identifying positions on a map.
 
 
 */

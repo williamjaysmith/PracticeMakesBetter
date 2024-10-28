@@ -40,6 +40,8 @@ function isSquare(n) {
 }
 
 
+WHAT DID I LEARN? ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+██████████████████████████████████████████████████████████
 
-
+I learned how to determine if a number is a perfect square by checking if its square root is an integer, which can be useful in web development for validating inputs or creating game mechanics that rely on specific number properties.
 */

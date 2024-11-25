@@ -25,25 +25,31 @@ function chritmasTreeBuilder(branches) {
 
     for (let i = 0; i < branches; i++) {
         let spaces = " ".repeat(branches - i - 1);
-
         tree += spaces + "*".repeat(stars) + spaces + "\n";
-
         stars += 2;
+    }
+    let trunkWidth = Math.floor(branches / 3) || 1;
+    let trunkHeight = Math.floor(branches / 3);
+    let trunkSpaces = " ".repeat((stars - 1 - trunkWidth) / 2);
+
+    for (let i = 0; i < trunkHeight; i++) {
+        tree += trunkSpaces + "*".repeat(trunkWidth) + trunkSpaces + "\n";
     }
 
     console.log(tree);
 }
-//          *
-//         ***
-//        *****
-//       *******
-//      *********
-//     ***********
-//    *************
-//   ***************
-//  *****************
-// *******************
-chritmasTreeBuilder(10);
+      *
+     ***
+    *****
+   *******
+  *********
+ ***********
+*************
+      **
+      **
+chritmasTreeBuilder(11);
+
+
 
 /*
 BEST PRACTICE ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░

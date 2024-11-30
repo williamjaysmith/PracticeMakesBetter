@@ -21,9 +21,7 @@ MY SOLUTION ░░░░░░░░░░░░░░░░░░░░░░�
 ██████████████████████████████████████████████████████████*/
 function solve(s) {
     let vowels = "aeiou";
-    let consonants = "abcdefghijklmnopqrstuvwxyz";
-    let consonantStr = "";
-    let maxConstStr = "";
+    let alphabet = "abcdefghijklmnopqrstuvwxyz";
     let count = 0;
     let maxCount = 0;
 
@@ -31,7 +29,7 @@ function solve(s) {
 
     for (let i = 0; i < s.length; i++) {
         if (!vowels.includes(s[i])) {
-            count += consonants.indexOf(s[i]) + 1;
+            count += alphabet.indexOf(s[i]) + 1;
             consonantStr += String(s[i]);
             if (maxCount < count) {
                 maxCount = count;
@@ -42,8 +40,10 @@ function solve(s) {
             consonantStr = "";
         }
     }
+    return maxCount;
 }
-solve("abibbbbebb");
+console.log(solve("abcd"));
+
 /*
 BEST PRACTICE ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ██████████████████████████████████████████████████████████
